@@ -1,4 +1,4 @@
-# Data Science Projects
+# Data Science & Analytics Projects
 Welcome to my Data Science Projects Repository, this repository is a comprehensive collection of my projects in the field of data science. This repository showcase various projects spanning multiple domains including:
 
   **- Machine Learning**: Implementation of supervised and unsupervised learning algorithms, deep learning models, and natural language processing techniques.
