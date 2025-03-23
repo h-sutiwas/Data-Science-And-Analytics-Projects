@@ -1,2 +1,6 @@
-# ignore All .env file
-.env
+# ignore .zip files
+*.zip
+*.virtual_documents/
+
+# ignore specific files
+IDA Statement Of Credits and Grants/ida_statement_of_credits_grants_and_guarantees_historical_data_06-11-2024.csv
