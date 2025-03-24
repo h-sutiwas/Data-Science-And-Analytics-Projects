@@ -10,3 +10,5 @@ Welcome to my Data Science Projects Repository, this repository is a comprehensi
   **-Other Data Science Topics**: Including data preprocessing, feature engineering, model evaluation, and deployment.
 
   Each project demonstrates different aspects of the data science workflow, from data collection and cleaning to model building and interpretation of results. Whether you're a fellow data scientist, a student, or simply curious about data science, you'll find something interesting here.
+
+## Projects
