@@ -1,11 +1,11 @@
-select * from artist;
-select * from canvas_size;
-select * from image_link;
-select * from museum;
-select * from museum_hours;
-select * from product_size;
-select * from subject;
-select * from work;
+SELECT * FROM artist;
+SELECT * FROM canvas_size;
+SELECT * FROM image_link;
+SELECT * FROM museum;
+SELECT * FROM museum_hours;
+SELECT * FROM product_size;
+SELECT * FROM subject;
+SELECT * FROM work;
 
 
 -- Problem Number 10

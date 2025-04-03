@@ -1,5 +1,4 @@
-select * from df_orders
-
+SELECT * FROM df_orders;
 
 -- Find Top 10 Highest Revenue Generating Products
 SELECT
